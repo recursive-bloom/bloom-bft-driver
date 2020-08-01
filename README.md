@@ -1,10 +1,10 @@
-## run 4 nodes(sawtooth-pbft-demo)
+## run 4 nodes(bloom-bft-driver)
 
 ```
-./target/debug/sawtooth-pbft-demo 4 0
-./target/debug/sawtooth-pbft-demo 4 1
-./target/debug/sawtooth-pbft-demo 4 2
-./target/debug/sawtooth-pbft-demo 4 3
+./target/debug/bloom-bft-driver 4 0
+./target/debug/bloom-bft-driver 4 1
+./target/debug/bloom-bft-driver 4 2
+./target/debug/bloom-bft-driver 4 3
 ```
 
 ## run 4 pbft engine(sawtooth-pbft)
